@@ -44,4 +44,4 @@ files:
         'zh-TW': 'zh_cmn_hant'
   - source: /js/locales/udata.en.json
     translation: /js/locales/udata.%two_letters_code%.json
-    languages_mapping: *anchor
+    *anchor
