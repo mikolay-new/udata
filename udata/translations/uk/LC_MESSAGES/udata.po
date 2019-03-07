@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: test1-github\n"
 "X-Crowdin-Language: uk\n"
-"X-Crowdin-File: /l10n_l10n_l10n_l10n_master/udata/translations/udata.pot\n"
+"X-Crowdin-File: /l10n_l10n_l10n_l10n_l10n_l10n_l10n_l10n_l10n_l10n_master/udata/translations/udata.pot\n"
 
 #: udata/settings.py:93
 msgid "Welcome"
