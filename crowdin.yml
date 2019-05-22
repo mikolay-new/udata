@@ -1,6 +1,8 @@
 append_commit_message: false
-commit_message: >
+commit_message: |-
   Breaking news!
-  
   File %original_file_name% has new translations in %language%
-files: []
+
+files:
+  - source: README.md
+    translation: /%file_name%-%two_letters_code%.%file_extension%
