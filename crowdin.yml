@@ -1,6 +1,6 @@
-append_commit_message: false
-commit_message: |-
+commit_message: >
   Breaking news!
+  
   File %original_file_name% has new translations in %language%
 
 files:
