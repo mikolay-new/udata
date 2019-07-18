@@ -1,7 +1,4 @@
-commit_message: >
-  Breaking news!
-  
-  File %original_file_name% has new translations in %language%
+commit_message: File %original_file_name% has new translations in %language%
 
 files:
   - source: README.md
