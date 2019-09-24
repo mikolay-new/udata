@@ -1,8 +1,7 @@
-commit_message: >
+commit_message: |-
   Breaking news!
-  
   File %original_file_name% has new translations in %language%
 
 files:
-  - source: README.md
-    translation: /%file_name%-%two_letters_code%.%file_extension%
+  - source: '**/README.md'
+    translation: '**/%two_letters_code%.%original_file_name%'
